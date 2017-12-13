@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{5089B3A9-2985-4ADE-9501-A6EAF74D6242}|Default">
+  <MonoDevelop.Ide.ItemProperties.TicTacToe PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TicTacToe/Program.cs">
+    <Files>
+      <File FileName="TicTacToe/Program.cs" Line="18" Column="17" />
+      <File FileName="TicTacToe/Game.cs" Line="115" Column="21" />
+      <File FileName="TicTacToe/LearningAI.cs" Line="19" Column="13" />
+      <File FileName="TicTacToe/LearningTable.cs" Line="15" Column="5" />
+      <File FileName="TicTacToe/Human.cs" Line="28" Column="10" />
+      <File FileName="TicTacToe/Board.cs" Line="59" Column="21" />
+      <File FileName="TicTacToe/MiniMax.cs" Line="19" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
